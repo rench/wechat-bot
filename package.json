@@ -1,0 +1,30 @@
+{
+  "name": "wechat-bot",
+  "version": "1.0.0",
+  "description": "wechat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rench/wechat-bot.git"
+  },
+  "keywords": [
+    "wechat",
+    "wechaty",
+    "bot"
+  ],
+  "author": "rench",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rench/wechat-bot/issues"
+  },
+  "homepage": "https://github.com/rench/wechat-bot#readme",
+  "dependencies": {
+    "grpc": "^1.24.2",
+    "qrcode-terminal": "^0.12.0",
+    "wechaty": "^0.32.2",
+    "wechaty-puppet-padplus": "^0.4.6"
+  }
+}
