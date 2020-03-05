@@ -24,6 +24,11 @@ docker run -ti --rm --volume="$(pwd)":/bot -e WECHATY_PUPPET=wechaty-puppet-padp
 - reply a weather with keyword: `成都天气`
 - reply a random taobao item with keyword: `购物`
 
+## next year plan
+- Personal reminder
+- Music search
+- Movie search
+- News read
 ## other link
 - [wechaty](https://github.com/wechaty/wechaty)
 - [wechaty-puppet-padplus](https://github.com/wechaty/wechaty-puppet-padplus)
